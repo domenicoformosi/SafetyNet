@@ -46,19 +46,7 @@ The system combines:
 ## Prototype
 Although this was developed as a school project, the prototype demonstrates the viability of using the Arduino Nano 33 BLE Sense for wearable fall detection. The system is portable, accurate, and efficient, providing a foundation for future development.
 
-## References
-1. [Original Research](#)
-2. TensorFlow Lite Documentation
-3. [Kalman Filtering Applications](#)
-4. IoT and Sensor Data Processing
-5. Arduino Nano 33 BLE Sense Documentation
 
-
-2. Install required libraries for Arduino:
-   - TensorFlow Lite
-   - Kalman filtering library
-3. Load the provided code onto your Arduino Nano 33 BLE Sense.
-4. Follow the instructions in the documentation folder for hardware assembly and testing.
 
 ## Future Improvements
 - Expand the dataset for training to include more diverse fall scenarios.
